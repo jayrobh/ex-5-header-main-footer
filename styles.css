@@ -1,0 +1,48 @@
+html{
+    font-family: "Roboto Condensed", sans-serif;
+    background-color: aliceblue;
+}
+.site-nav{
+    list-style-type: none;
+}
+.vib-header{
+    background-color:darkseagreen;
+  padding: 20px;
+  margin: 10px;
+}
+.vib-main{
+    background-color:olive;
+  padding: 20px;
+  margin: 10px;
+}
+.vib-footer{
+    background-color:lightsteelblue;
+  padding: 20px;
+  margin: 10px;
+}
+.uwm-header{
+    background-color:dimgray;
+    color:white;
+  padding: 20px;
+  margin: 10px;
+}
+.uwm-main{
+    background-color:aquamarine;
+  padding: 20px;
+  margin: 10px;
+}
+.uwm-footer{
+    background-color:orchid;
+  padding: 20px;
+  margin: 10px;
+}
+.socials{
+    font-size: small;
+    list-style-type: none;
+    display: flex;
+    justify-content:flex-start;
+}
+.socials-links{
+    padding: 10px;
+    display: block;
+}
